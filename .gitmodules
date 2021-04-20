@@ -1,0 +1,6 @@
+[submodule "states-api"]
+	path = states-api
+	url = git@github.com:ktfth/states-api.git
+[submodule "population-api"]
+	path = population-api
+	url = git@github.com:ktfth/population-api.git
